@@ -1,5 +1,5 @@
 <!-- 🖼️ Top Banner -->
-<img src="https://raw.githubusercontent.com/alaminO8islam/alaminO8islam/main/banner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/alaminO8islam/alaminO8islam/main/topbanner.png" width="100%" />
 
 <!-- 👋 Greeting -->
 # 👋 Hi, I'm Al-Amin Islam
@@ -38,6 +38,11 @@
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)
 ![Burp Suite](https://img.shields.io/badge/-Burp--Suite-FF6600?style=flat&logo=burpsuite)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat)
+
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaminO8islam&layout=compact&theme=tokyonight)
+
 
 ---
 
