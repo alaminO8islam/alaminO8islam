@@ -29,8 +29,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/al-amin-islam-a6287326b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_al_alamin_/)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@al_alamin_islam)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)]([https://x.com/yourusername](https://x.com/luvHamlet))
-[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://your-notion-link-here](https://www.notion.so/Al-Amin-Islam-Links-203c9ac58fdd80a09327cceae0afe6f5?source=copy_link))
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/luvHamlet)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Al-Amin-Islam-Links-203c9ac58fdd80a09327cceae0afe6f5?source=copy_link)
 
 ---
 
