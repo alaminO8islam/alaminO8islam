@@ -48,9 +48,12 @@
 
 ---
 
-### 📊 GitHub Stats
+<!-- GitHub Stats -->
 ![Stats](https://github-readme-stats.vercel.app/api?username=alaminO8islam&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=alaminO8islam&theme=tokyonight)
+
+<!-- GitHub Streak -->
+  
+![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=alaminO8islam&theme=tokyonight)
 
 ---
 
