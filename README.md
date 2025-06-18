@@ -1,4 +1,4 @@
-<!-- Banner Image (Upload your own to GitHub repo or use this for now) -->
+<!-- Banner Image -->
 <img src="https://raw.githubusercontent.com/alaminO8islam/alaminO8islam/main/banner.png" width="100%" />
 
 # 👋 Hi, I'm Al-Amin Islam
@@ -17,9 +17,9 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com](https://www.linkedin.com/in/al-amin-islam-a6287326b/))  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)]([https://instagram.com](https://www.instagram.com/_al_alamin_/))  
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)]([https://youtube.com](https://www.youtube.com/@al_alamin_islam))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/al-amin-islam-a6287326b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_al_alamin_/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@al_alamin_islam)
 
 ---
 
