@@ -53,11 +53,5 @@
 
 ---
 
-<!-- GitHub Streak -->
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=alaminO8islam&theme=tokyonight)
-
----
-
 ### 📫 Contact Me
 📧 Email: alaminratul0810@gmail.com
