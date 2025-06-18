@@ -11,7 +11,10 @@
 🔍 Learning web vulnerability testing, system security, and digital forensics  
 
 <!-- 📽️ Custom GIF -->
-<img src="https://raw.githubusercontent.com/alaminO8islam/alaminO8islam/main/mygif.gif" width="400px" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alaminO8islam/alaminO8islam/main/mygif.gif" width="300px" />
+</p>
+
 
 ---
 
