@@ -1,11 +1,17 @@
-<!-- Banner Image -->
+<!-- 🖼️ Top Banner -->
 <img src="https://raw.githubusercontent.com/alaminO8islam/alaminO8islam/main/banner.png" width="100%" />
 
+<!-- 👋 Greeting -->
 # 👋 Hi, I'm Al-Amin Islam
+
+![Profile views](https://komarev.com/ghpvc/?username=alaminO8islam&color=blue)
 
 🎓 Bachelor’s in Computer Science & Engineering  
 🛡️ Passionate about Cybersecurity | Data Security | Ethical Hacking  
 🔍 Learning web vulnerability testing, system security, and digital forensics  
+
+<!-- 📽️ Custom GIF -->
+<img src="https://raw.githubusercontent.com/alaminO8islam/alaminO8islam/main/mygif.gif" width="400px" />
 
 ---
 
@@ -26,7 +32,9 @@
 ### 🧰 Tools & Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark)
 ![Burp Suite](https://img.shields.io/badge/-Burp--Suite-FF6600?style=flat&logo=burpsuite)
 ![Nmap](https://img.shields.io/badge/-Nmap-000000?style=flat)
