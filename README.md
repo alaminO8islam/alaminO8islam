@@ -9,13 +9,6 @@
 🎓 Bachelor’s in Computer Science & Engineering  
 🛡️ Passionate about Cybersecurity | Data Security | Ethical Hacking  
 🔍 Learning web vulnerability testing, system security, and digital forensics  
-
-<!-- 📽️ Custom GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alaminO8islam/alaminO8islam/main/mygif.gif" width="300px" />
-</p>
-
-
 ---
 
 ### 🧠 Currently Exploring
