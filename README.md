@@ -5,10 +5,12 @@
 # 👋 Hi, I'm Al-Amin Islam
 
 ![Profile views](https://komarev.com/ghpvc/?username=alaminO8islam&color=blue)
-
+```
 🎓 Bachelor’s in Computer Science & Engineering  
 🛡️ Passionate about Cybersecurity | Data Security | Ethical Hacking  
-🔍 Learning web vulnerability testing, system security, and digital forensics  
+🔍 Learning web vulnerability testing, system security, and digital forensics
+
+```  
 ---
 
 ### 🧠 Currently Exploring
