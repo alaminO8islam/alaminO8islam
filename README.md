@@ -1,5 +1,5 @@
 <!-- 🖼️ Top Banner -->
-<img src="https://raw.githubusercontent.com/alaminO8islam/alaminO8islam/main/mybanner.png" width="100%" />
+<img src="https://raw.githubusercontent.com/alaminO8islam/alaminO8islam/main/hudobanner.png" width="100%" />
 
 <!-- 👋 Greeting -->
 # 👋 Hi, I'm Al-Amin Islam
